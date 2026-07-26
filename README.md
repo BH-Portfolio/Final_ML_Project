@@ -70,3 +70,7 @@ Example:
 ## Contributors
 - Benny Hoang
 - Aidan Waaler
+
+## License
+
+This project was created for educational purposes.
